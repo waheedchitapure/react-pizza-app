@@ -40,4 +40,5 @@
         ]
     },
     "proxy":"https://ecom-rest-apis.herokuapp.com"
+  
 }
